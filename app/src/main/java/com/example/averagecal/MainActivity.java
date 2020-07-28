@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     EditText num2;
     TextView results;
     Button maths, art, sciences,life_orientation;
-    float result_num;
+    int result_num;
     int number1, number2;
 
 
